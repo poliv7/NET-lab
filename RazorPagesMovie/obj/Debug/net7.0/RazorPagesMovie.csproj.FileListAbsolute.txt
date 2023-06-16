@@ -1,0 +1,606 @@
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/appsettings.Development.json
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/appsettings.json
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/RazorPagesMovie.staticwebassets.runtime.json
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/RazorPagesMovie
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/RazorPagesMovie.deps.json
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/RazorPagesMovie.runtimeconfig.json
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/RazorPagesMovie.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/RazorPagesMovie.pdb
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/obj/Debug/net7.0/RazorPagesMovie.csproj.AssemblyReference.cache
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/obj/Debug/net7.0/RazorPagesMovie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/obj/Debug/net7.0/RazorPagesMovie.AssemblyInfoInputs.cache
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/obj/Debug/net7.0/RazorPagesMovie.AssemblyInfo.cs
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/obj/Debug/net7.0/RazorPagesMovie.csproj.CoreCompileInputs.cache
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/obj/Debug/net7.0/RazorPagesMovie.MvcApplicationPartsAssemblyInfo.cache
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/obj/Debug/net7.0/RazorPagesMovie.RazorAssemblyInfo.cache
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/obj/Debug/net7.0/RazorPagesMovie.RazorAssemblyInfo.cs
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/obj/Debug/net7.0/staticwebassets/msbuild.RazorPagesMovie.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/obj/Debug/net7.0/staticwebassets/msbuild.build.RazorPagesMovie.props
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.RazorPagesMovie.props
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.RazorPagesMovie.props
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/obj/Debug/net7.0/staticwebassets.build.json
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/obj/Debug/net7.0/staticwebassets.development.json
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/obj/Debug/net7.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/obj/Debug/net7.0/scopedcss/bundle/RazorPagesMovie.styles.css
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/obj/Debug/net7.0/scopedcss/projectbundle/RazorPagesMovie.bundle.scp.css
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/obj/Debug/net7.0/RazorPagesMovie.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/obj/Debug/net7.0/refint/RazorPagesMovie.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/obj/Debug/net7.0/RazorPagesMovie.pdb
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/obj/Debug/net7.0/RazorPagesMovie.genruntimeconfig.cache
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/obj/Debug/net7.0/ref/RazorPagesMovie.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Azure.Core.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Azure.Identity.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Humanizer.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Microsoft.Build.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Microsoft.Build.Framework.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Microsoft.CodeAnalysis.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Microsoft.CodeAnalysis.Elfie.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Microsoft.CodeAnalysis.Features.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Microsoft.CodeAnalysis.Scripting.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Microsoft.CodeAnalysis.VisualBasic.Features.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Microsoft.DiaSymReader.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Microsoft.DotNet.Scaffolding.Shared.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Microsoft.NET.StringTools.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/dotnet-aspnet-codegenerator-design.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/NuGet.Common.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/NuGet.Configuration.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/NuGet.DependencyResolver.Core.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/NuGet.Frameworks.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/NuGet.LibraryModel.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/NuGet.Packaging.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/NuGet.ProjectModel.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/NuGet.Protocol.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/NuGet.Versioning.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/System.CodeDom.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/System.Composition.AttributedModel.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/System.Composition.Convention.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/System.Composition.Hosting.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/System.Composition.Runtime.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/System.Composition.TypedParts.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/System.Reflection.MetadataLoadContext.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/mateusz/Desktop/NET lab/RazorPagesMovie/obj/Debug/net7.0/RazorPagesMovie.csproj.CopyComplete
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\appsettings.json
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\RazorPagesMovie.staticwebassets.runtime.json
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\RazorPagesMovie.exe
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\RazorPagesMovie.deps.json
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\RazorPagesMovie.runtimeconfig.json
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\RazorPagesMovie.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\RazorPagesMovie.pdb
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\obj\Debug\net7.0\RazorPagesMovie.csproj.AssemblyReference.cache
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\obj\Debug\net7.0\RazorPagesMovie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\obj\Debug\net7.0\RazorPagesMovie.AssemblyInfoInputs.cache
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\obj\Debug\net7.0\RazorPagesMovie.AssemblyInfo.cs
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\obj\Debug\net7.0\RazorPagesMovie.csproj.CoreCompileInputs.cache
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\obj\Debug\net7.0\RazorPagesMovie.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\obj\Debug\net7.0\RazorPagesMovie.RazorAssemblyInfo.cache
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\obj\Debug\net7.0\RazorPagesMovie.RazorAssemblyInfo.cs
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\obj\Debug\net7.0\staticwebassets\msbuild.RazorPagesMovie.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\obj\Debug\net7.0\staticwebassets\msbuild.build.RazorPagesMovie.props
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RazorPagesMovie.props
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RazorPagesMovie.props
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\obj\Debug\net7.0\scopedcss\bundle\RazorPagesMovie.styles.css
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\obj\Debug\net7.0\scopedcss\projectbundle\RazorPagesMovie.bundle.scp.css
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\obj\Debug\net7.0\RazorPagesMovie.csproj.CopyComplete
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\obj\Debug\net7.0\RazorPagesMovie.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\obj\Debug\net7.0\refint\RazorPagesMovie.dll
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\obj\Debug\net7.0\RazorPagesMovie.pdb
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\obj\Debug\net7.0\RazorPagesMovie.genruntimeconfig.cache
+C:\Users\Oliwia Przybyła\Desktop\PAI\NET lab\RazorPagesMovie\obj\Debug\net7.0\ref\RazorPagesMovie.dll
